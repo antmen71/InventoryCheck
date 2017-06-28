@@ -1,0 +1,39 @@
+C:\Documents and Settings\antmen\Belgelerim\Visual Studio 2008\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\antmen\Belgelerim\Visual Studio 2008\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.Form1.resources
+C:\Documents and Settings\antmen\Belgelerim\Visual Studio 2008\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.Properties.Resources.resources
+C:\Documents and Settings\antmen\Belgelerim\Visual Studio 2008\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.csproj.GenerateResource.Cache
+C:\Documents and Settings\antmen\Belgelerim\Visual Studio 2008\Projects\Stok_kontrol_2011\Stok_kontrol_2011\bin\Debug\Stok_kontrol_2011.exe
+C:\Documents and Settings\antmen\Belgelerim\Visual Studio 2008\Projects\Stok_kontrol_2011\Stok_kontrol_2011\bin\Debug\Stok_kontrol_2011.pdb
+C:\Documents and Settings\antmen\Belgelerim\Visual Studio 2008\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.exe
+C:\Documents and Settings\antmen\Belgelerim\Visual Studio 2008\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.pdb
+C:\Users\orkun\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.exe
+C:\Users\orkun\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.pdb
+C:\Users\orkun\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\bin\Debug\Stok_kontrol_2011.exe
+C:\Users\orkun\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\bin\Debug\Stok_kontrol_2011.pdb
+C:\Users\orkun\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\orkun\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.Form1.resources
+C:\Users\orkun\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.Properties.Resources.resources
+C:\Users\orkun\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.csproj.GenerateResource.Cache
+C:\Documents and Settings\antmen\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\bin\Debug\Stok_kontrol_2011.exe
+C:\Documents and Settings\antmen\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\bin\Debug\Stok_kontrol_2011.pdb
+C:\Documents and Settings\antmen\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\antmen\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.Form1.resources
+C:\Documents and Settings\antmen\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.Properties.Resources.resources
+C:\Documents and Settings\antmen\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.csproj.GenerateResource.Cache
+C:\Documents and Settings\antmen\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.exe
+C:\Documents and Settings\antmen\Desktop\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.pdb
+D:\desktop_eski\Stok_kontrol_2011\Stok_kontrol_2011\bin\Debug\Stok_kontrol_2011.exe
+D:\desktop_eski\Stok_kontrol_2011\Stok_kontrol_2011\bin\Debug\Stok_kontrol_2011.pdb
+D:\desktop_eski\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.Form1.resources
+D:\desktop_eski\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.Properties.Resources.resources
+D:\desktop_eski\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.csproj.GenerateResource.Cache
+D:\desktop_eski\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.exe
+D:\desktop_eski\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.pdb
+C:\Users\TRISORAN\Documents\Visual Studio 2015\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.exe
+C:\Users\TRISORAN\Documents\Visual Studio 2015\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.pdb
+C:\Users\TRISORAN\Documents\Visual Studio 2015\Projects\Stok_kontrol_2011\Stok_kontrol_2011\bin\Debug\Stok_kontrol_2011.exe
+C:\Users\TRISORAN\Documents\Visual Studio 2015\Projects\Stok_kontrol_2011\Stok_kontrol_2011\bin\Debug\Stok_kontrol_2011.pdb
+C:\Users\TRISORAN\Documents\Visual Studio 2015\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.csprojResolveAssemblyReference.cache
+C:\Users\TRISORAN\Documents\Visual Studio 2015\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.Form1.resources
+C:\Users\TRISORAN\Documents\Visual Studio 2015\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.Properties.Resources.resources
+C:\Users\TRISORAN\Documents\Visual Studio 2015\Projects\Stok_kontrol_2011\Stok_kontrol_2011\obj\Debug\Stok_kontrol_2011.csproj.GenerateResource.Cache
